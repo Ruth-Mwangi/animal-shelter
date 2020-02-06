@@ -1,0 +1,86 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: cursive;
+    font-style: normal;
+    
+}
+h3 {
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: cursive;
+    font-style: normal;
+    
+}
+.dog {
+    background-color: coral;
+    padding: 6px;
+    margin: 10px;
+    border: blueviolet solid 2px;
+    display: inline-block;
+    
+    
+}
+.cat {
+    background-color: coral;
+    padding: 6px;
+    margin: 10px;
+    border: black solid 2px;
+    display: inline;
+}
+.silver {
+    background-color: coral;
+    padding: 6px;
+    margin: 10px;
+    border: crimson solid 2px;
+    display: inline;
+}
+.dog img {
+    float: left;
+    
+    
+} 
+.cat img {
+    float: left;
+    
+} 
+.silver img {
+    float: left;
+    
+} 
+.silver p {
+    float: left;
+    width: 70%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size: x-large;
+
+}
+
+.dog p {
+    float: left;
+    width: 70%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size: x-large;
+
+}
+
+.cat p {
+    float: left;
+    width: 70%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size: x-large;
+
+}
+.main {
+    display: grid;
+}
