@@ -1,8 +1,7 @@
-# {Animal Shelter}
-#### {Animal Shelter Website}, {7/02/2020}
+# Animal Shelter
 #### By **{Ruth Mwangi}**
 ## Description
-{The website displays all the animals that are in the shelter and are in ned of adoption. It also displays the animals profile }
+The website displays all the animals that are in the shelter and are in ned of adoption. It also displays the animals profile 
 ## Setup/Installation Requirements
 * Internet connection
 * Internet Browser
@@ -15,4 +14,4 @@
 {Contact me via rwmwangi96@gmail.com}
 ### License
 *{}*
-Copyright (c) {year} **{Ruth Mwangi}**
+Copyright (c) 2019 **{Ruth Mwangi}**
